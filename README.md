@@ -16,6 +16,12 @@ Spark - Konnex
   4. Go to the Integrations and click on web demo.
   5. Copy the demo url or copy iframe code to integrate it on different place.
 
+
+Firebase (https://firebase.google.com/) - mobile / web development platform featuring the Firebase realtime database
+Login and Register
+
+Google api to integrate mL app
+
   
 Android setup:
 Download .apk file from drive using URL provided in Presentation https://drive.google.com/drive/folders/1dWwUBcKN4nSeaaRV__bQsiR6DiIcUBW_?usp=sharing
@@ -24,3 +30,4 @@ Download .apk file from drive using URL provided in Presentation https://drive.g
 ![Az Community (New Logo) Blue](https://github.com/vilsi12/Spark/blob/main/WhatsApp%20Image%202021-07-21%20at%2013.29.57.jpeg)
 ![Az Community (New Logo) Blue](https://github.com/vilsi12/Spark/blob/main/WhatsApp%20Image%202021-07-21%20at%2013.29.57%20(1).jpeg)
 ![Az Community (New Logo) Blue](https://github.com/vilsi12/Spark/blob/main/WhatsApp%20Image%202021-07-21%20at%2013.29.57%20(1).jpeg)
+
